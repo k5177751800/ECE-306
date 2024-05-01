@@ -1,0 +1,14 @@
+.ORIG x3000 
+
+LD R0, PTR 
+LD R1, PTR1
+
+
+
+
+
+
+PTR .FILL x4000
+PTR1 .FILL x4001
+
+.END 
